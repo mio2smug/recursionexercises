@@ -1,4 +1,4 @@
-let myNum = (n)
+let myNum = 8 //Whatever User input goes here
 
 function myVal (num){
     let myArray = [0,1];
